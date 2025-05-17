@@ -15,8 +15,6 @@ My current focus is on applying statistical thinking to real-world problems thro
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GulsareMirzayeva&layout=compact&theme=default)
-
 ---
 
 ## 📫 Contact

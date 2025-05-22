@@ -20,5 +20,5 @@ My current focus is on applying statistical thinking to real-world problems thro
 ## 📫 Contact
 
 - ✉️ Email: mirzayevagulsare@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/gulsara-mirzayeva-298a3b359](https://www.linkedin.com/in/gulsara-mirzayeva-298a3b359/)  
-🔗 **GitHub:** [github.com/GulsareMirzayeva](https://github.com/GulsareMirzayeva)
+- 🔗 **LinkedIn:** [linkedin.com/in/gulsara-mirzayeva-298a3b359](https://www.linkedin.com/in/gulsara-mirzayeva-298a3b359/)  
+- 🔗 **GitHub:** [github.com/GulsareMirzayeva](https://github.com/GulsareMirzayeva)

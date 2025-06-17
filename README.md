@@ -14,6 +14,10 @@ My current focus is on applying statistical thinking to real-world problems thro
 - 🌍 Open to **collaboration**, **internships**, or **remote data roles**
 
 ---
+📌 Projects
+
+Pinned projects demonstrate practical skills in statistics, regression, hypothesis testing, and visualization.  
+Each one reflects a different stage of my learning path in data analysis.
 
 ---
 

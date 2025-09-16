@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Gulsare Mirzayeva
+## Hi there 👋 I'm Gulsara Mirzayeva
 
-I'm an aspiring **data analyst** actively transitioning into the data field with a strong foundation in statistics, Python, and visualization.
+I'm an aspiring **data scientist** actively transitioning into the data field with a strong foundation in statistics, Python, and visualization.
 
 My current focus is on applying statistical thinking to real-world problems through practical and well-structured projects.
 
@@ -33,5 +33,5 @@ Each project reflects a specific step in my learning path and aims to solve real
 ## 📫 Contact
 
 - ✉️ Email: mirzayevagulsare@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/gulsara-mirzayeva-298a3b359](https://www.linkedin.com/in/gulsara-mirzayeva-298a3b359/)  
-- 🔗 **GitHub:** [github.com/GulsareMirzayeva](https://github.com/GulsareMirzayeva)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/gulsara-mirzayeva/](https://www.linkedin.com/in/gulsara-mirzayeva/)  
+- 🔗 **GitHub:** [github.com/GulsaraMirzayeva](https://github.com/GulsaraMirzayeva)

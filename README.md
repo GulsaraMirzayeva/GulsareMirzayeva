@@ -1,37 +1,47 @@
 ## Hi there 👋 I'm Gulsara Mirzayeva
 
-I'm an aspiring **data scientist** actively transitioning into the data field with a strong foundation in statistics, Python, and visualization.
-
-My current focus is on applying statistical thinking to real-world problems through practical and well-structured projects.
+🎓 **Data Science Trainee at Div Academy (60% merit scholarship)**  
+📊 Transitioning from design & teaching into the data field with a strong base in **Python, SQL, and statistics**.  
+🚀 Passionate about solving problems with data and building structured, real-world projects.
 
 ---
 
 ## 📌 About Me
 
-- 🎯 Interested in **statistical inference**, **data-driven decision-making**, and **visual storytelling**
-- 🛠️ Currently working with: **Python** (pandas, matplotlib, numpy), **Excel**, and **SQL**
-- 🧠 I believe in **learning by doing** – each project here represents a meaningful step forward
-- 🌍 Open to **collaboration**, **internships**, or **remote data roles**
+- 🎯 Focus areas: **statistical inference**, **machine learning basics**, **data visualization**
+- 🛠️ Tech stack:  
+  - **Python**: pandas, numpy, matplotlib, seaborn, scikit-learn  
+  - **SQL**: Oracle SQL, PostgreSQL  
+  - **BI Tools**: Power BI, Tableau  
+  - **Version Control**: Git & GitHub  
+- 🌍 Open to **collaborations, internships, and remote data opportunities**
 
 ---
 
-📌 Projects
-My pinned projects showcase practical skills in:
+## 📂 Projects
 
-📊 statistical analysis
+Pinned repositories highlight my learning journey through practical projects:
 
-📈 regression modeling
+- 📊 **Customer Satisfaction Analysis**  
+  Applied mean, std, CV, and z-score to survey data → insights on customer experience.
 
-🧪 hypothesis testing
+- 🛒 **Online Retail SQL Database**  
+  Built an end-to-end relational database in **Oracle SQL** with tables, joins, views, and sequences.
 
-📉 data visualization
+- 🧠 **Student Depression Dataset Analysis**  
+  Cleaned and visualized mental health data using **Python (pandas, seaborn, matplotlib)**.
 
-Each project reflects a specific step in my learning path and aims to solve real-world-inspired problems through Python.
+- 📈 **Regression & Hypothesis Testing**  
+  Explored linear/logistic regression and statistical testing to validate assumptions.
 
 ---
 
 ## 📫 Contact
 
-- ✉️ Email: mirzayevagulsare@gmail.com
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/gulsara-mirzayeva/](https://www.linkedin.com/in/gulsara-mirzayeva/)  
-- 🔗 **GitHub:** [github.com/GulsaraMirzayeva](https://github.com/GulsaraMirzayeva)
+- 📱 Phone: +994 50 552 13 70
+- ✉️ Email: mirzayevagulsare@gmail.com  
+- 🔗 **LinkedIn:** [linkedin.com/in/gulsara-mirzayeva](https://www.linkedin.com/in/gulsara-mirzayeva/)  
+- 🔗 **GitHub:** [github.com/GulsaraMirzayeva](https://github.com/GulsaraMirzayeva)  
+
+---
+✨ *I believe in learning by doing – every project here is a step closer to becoming a professional data scientist.*  
